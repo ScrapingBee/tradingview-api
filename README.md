@@ -2,9 +2,11 @@
 
 <p align="center">
   <a href="https://www.scrapingbee.com/">
-    <img src="REPLACE_WITH_SCREENSHOT_URL" alt="tradingview-api" />
+    <img src="https://github.com/user-attachments/assets/fb56a4d1-7ae4-45c8-97f3-0a7292e15785" alt="tradingview-api" />
   </a>
 </p>
+
+
 
 [![checks](https://github.com/ScrapingBee/tradingview-api/workflows/checks/badge.svg)](https://github.com/ScrapingBee/tradingview-api/actions)
 [![license](https://img.shields.io/github/license/ScrapingBee/tradingview-api.svg)](LICENSE)
